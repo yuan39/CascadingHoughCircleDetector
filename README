@@ -1,0 +1,1 @@
+This program will automatically detect the center location and radius given a solar image using cascading Hough circle detector. 
